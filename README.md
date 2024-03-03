@@ -40,3 +40,5 @@ This dataset is taken from : http://archive.ics.uci.edu/ml/datasets/Wine+Quality
     ```
     python app.py 0.3 0.7
     ```
+
+9. Create a remote server (optional): You have the option to integrate the project with any remote server, such as AWS, Azure, GCP, etc. In this project, I have used Dagshub as a remote server : https://dagshub.com/user/login
