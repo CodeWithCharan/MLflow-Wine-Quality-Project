@@ -1,7 +1,7 @@
 # MLflow-Wine-Quality-Project
 
 ## Video Presentation
-https://github.com/CodeWithCharan/MLflow-Wine-Quality-Project/assets/106027109/0abc14e1-5932-4dc9-b0b6-901c1b793d56
+https://github.com/CodeWithCharan/MLflow-Wine-Quality-Project/assets/106027109/2e05ac3c-b9e6-4b7f-81c9-aa9fa7d9c7ce
 
 ## DATASET
 This dataset is taken from : http://archive.ics.uci.edu/ml/datasets/Wine+Quality<br/>
