@@ -1,4 +1,9 @@
 # MLflow-Wine-Quality-Project
+I've built a model to predict wine quality and set up a remote server on DagsHub for tracking experiments.
+
+- [ElasticnetWineModel](https://dagshub.com/CodeWithCharan/MLflow-Wine-Quality-Project/models)
+
+- [Experiments](https://dagshub.com/CodeWithCharan/MLflow-Wine-Quality-Project/experiments/#/)
 
 ## Video Presentation
 https://github.com/CodeWithCharan/MLflow-Wine-Quality-Project/assets/106027109/2e05ac3c-b9e6-4b7f-81c9-aa9fa7d9c7ce
